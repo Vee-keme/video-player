@@ -54,5 +54,3 @@ const Feed = () => {
 };
 
 export default Feed;
-
-// 1:03:00
